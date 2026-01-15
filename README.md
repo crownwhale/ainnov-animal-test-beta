@@ -1,3 +1,17 @@
+# 🐾 대외활동 유형 테스트 (Ainnov Animal Test)
+
+**3시간 동안 49명의 데이터를 수집한 대외활동 성향 분석 테스트입니다.**
+
+## 🛠 Tech Stack
+- Frontend: React, TypeScript, Vite
+- Backend/DB: Supabase
+- Deployment: Vercel (현재 종료)
+
+## 📊 주요 성과
+- 단기간 내 유효 데이터 49건 확보 및 분석 완료
+- 사용자 응답에 따른 동적 결과 알고리즘 구현
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
