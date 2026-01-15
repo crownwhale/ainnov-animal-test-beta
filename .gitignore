@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS & IDE
+node_modules
+dist
+dist-ssr
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 🔥 SECURITY: Sensitive Information (꼭 추가해야 함)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.local
